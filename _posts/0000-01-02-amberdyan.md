@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-![you did it image](https://cdn.shopify.com/s/files/1/0986/6226/products/7807336_l.jpg?v=1532279546)
+![you did it image](http://www.clipartquery.com/images/92/you-did-it-images-pictures-becuo-lAY3mo.jpg)
 Use the left arrow to go back!
